@@ -15,7 +15,7 @@ Esta API proporciona acceso a diferentes funcionalidades relacionadas con Pokém
 1. Clona el repositorio:
 git clone https://github.com/usuario/proyecto.git
 
-3. Instalar las dependencias del archivo "requirements.txt":
+2. Instalar las dependencias del archivo "requirements.txt":
 pip install -r requirements.txt
 
 ## Dependencias
