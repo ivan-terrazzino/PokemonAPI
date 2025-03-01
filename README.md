@@ -13,10 +13,12 @@ Esta API proporciona acceso a diferentes funcionalidades relacionadas con Pokém
 ## Instalación
 
 1. Clona el repositorio:
-git clone https://github.com/usuario/proyecto.git
+   
+  git clone https://github.com/usuario/proyecto.git
 
 2. Instalar las dependencias del archivo "requirements.txt":
-pip install -r requirements.txt
+   
+  pip install -r requirements.txt
 
 ## Dependencias
 
@@ -33,8 +35,11 @@ La API utiliza autenticación mediante tokens JWT para asegurar que solo los usu
 ## Uso
 
 1. Generar las variables de entorno con las credenciales, ya que de esta forma podremos autenticarnos en la API.
+   
 export SECRET_KEY="tu_clave_secreta"
+
 export POKEMON_USER="mi_usuario"
+
 export POKEMON_PASS="mi_contraseña"
 
 2. Iniciar la API (La misma se inicia en http://localhost:5000)
