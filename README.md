@@ -12,10 +12,11 @@ Esta API proporciona acceso a diferentes funcionalidades relacionadas con Pokém
 
 ## Instalación
 
-Para instalar sus dependencias, sigue estos pasos:
+1. Clona el repositorio:
+   git clone https://github.com/usuario/proyecto.git
 
-1. Instalar las dependencias del archivo "requirements.txt".
-pip install -r requirements.txt
+3. Instalar las dependencias del archivo "requirements.txt":
+   pip install -r requirements.txt
 
 ## Dependencias
 
