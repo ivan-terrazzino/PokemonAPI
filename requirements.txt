@@ -1,0 +1,4 @@
+Flask==2.0.2
+requests==2.26.0
+pyjwt==2.5.0
+Flask-Swagger-UI==3.61.0
